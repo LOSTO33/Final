@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\дз\bin\Debug\net8.0\дз.exe
+C:\Users\Павел\Desktop\дз\bin\Debug\net8.0\дз.deps.json
+C:\Users\Павел\Desktop\дз\bin\Debug\net8.0\дз.runtimeconfig.json
+C:\Users\Павел\Desktop\дз\bin\Debug\net8.0\дз.dll
+C:\Users\Павел\Desktop\дз\bin\Debug\net8.0\дз.pdb
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.AssemblyInfo.cs
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.dll
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\refint\дз.dll
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.pdb
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\дз.genruntimeconfig.cache
+C:\Users\Павел\Desktop\дз\obj\Debug\net8.0\ref\дз.dll
